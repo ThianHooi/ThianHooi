@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Some facts about me:
+
+- I am fullstack developer
+- I want to build software that brings positive value
+- My tooks include NodeJS (Express/NextJS), NextJS, Tailwind, Postgres and Mongodb
+- Buidler in the Web3 space (Solidity, thirdweb)
+- Reach me at ooithianhooi@gmail.com
+
 <!--
 **ThianHooi/ThianHooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
