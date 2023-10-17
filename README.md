@@ -4,7 +4,7 @@ Some facts about me:
 
 - I am fullstack developer
 - I want to build software that brings positive value
-- My tooks include NodeJS (Express/NextJS), NextJS, Tailwind, Postgres and Mongodb
+- My tools include NodeJS (Express/NextJS), NextJS, Tailwind, Postgres and Mongodb
 - Buidler in the Web3 space (Solidity, thirdweb)
 - Reach me at ooithianhooi@gmail.com
 
